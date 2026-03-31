@@ -1,7 +1,7 @@
 # 🏎️ F1 Performance Analysis: Grid to Finish & Championship Progress
 
 ## 📊 Project Overview
-This project analyzes Formula 1 performance data from 2021-2023, focusing on the relationship between qualifying positions and race results, and tracking championship progress throughout seasons.
+This project analyzes Formula 1 performance data from 2021-2025, focusing on the relationship between qualifying positions and race results, and tracking championship progress throughout seasons.
 
 ## 🎯 Key Questions Answered
 1. **How important is pole position?** Analysis of grid position vs final race result
